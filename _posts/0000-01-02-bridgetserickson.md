@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Three people can keep a secret if two are dead" -Benjamin Franklin
 Use the left arrow to go back!
